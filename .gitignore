@@ -1,0 +1,21 @@
+# Standard project files
+.eclipse
+build.properties
+.classpath
+.project
+.idea
+.settings
+*.class
+*~
+.DS_Store
+*.ipr
+*.iml
+*.iws
+*.class
+jacoco.exec
+bin/
+build/
+testoutput/
+tempPath/
+4.0-targeted/
+config/sharedmem.properties
