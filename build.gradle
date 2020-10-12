@@ -93,7 +93,7 @@ dependencies {
   compile ("org.apache.ws.commons.axiom:axiom-impl:$axiomVersion")
   compile ("org.apache.ws.commons.axiom:axiom-dom:$axiomVersion")
 
-  testCompile ('junit:junit:4.13')
+  testCompile ('junit:junit:4.13.1')
   testCompile ("com.adaptris:adp-stubs:$interlokCoreVersion") { changing= true}
   testCompile ("org.apache.logging.log4j:log4j-core:$log4j2Version")
   testCompile ("org.apache.logging.log4j:log4j-1.2-api:$log4j2Version")
